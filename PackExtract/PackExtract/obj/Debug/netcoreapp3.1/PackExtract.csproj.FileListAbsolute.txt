@@ -1,0 +1,15 @@
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\PackExtract.exe
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.csprojAssemblyReference.cache
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.AssemblyInfoInputs.cache
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.AssemblyInfo.cs
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.csproj.CoreCompileInputs.cache
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\PackExtract.deps.json
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\PackExtract.runtimeconfig.json
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\PackExtract.runtimeconfig.dev.json
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\PackExtract.dll
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\PackExtract.pdb
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.csproj.CopyComplete
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.dll
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.pdb
+C:\Users\_ptrinephi\source\repos\PackExtract\PackExtract\obj\Debug\netcoreapp3.1\PackExtract.genruntimeconfig.cache

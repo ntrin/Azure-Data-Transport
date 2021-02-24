@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsolePoolApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-f C:\\Users\\_ptrinephi\\source\\AZEventHub\\ToSend\\ -h pooloasysevthub-scporderlog_action -c Endpoint=sb://pooloasyseventhubs.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=TtSpcVCX4YF6ZMQPHXoHJCPEhAkBbH7GjlXSo0x0wak="
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PackExtract": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\_ptrinephi\\Desktop\\pierre.txt C:\\Users\\_ptrinephi\\Desktop\\packets\\"
+    }
+  }
+}

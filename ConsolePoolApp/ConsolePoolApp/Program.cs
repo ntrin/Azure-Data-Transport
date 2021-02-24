@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* Console app to connect to Azure Event Hubs and sent data automatically using time events.
+ * 
+ * 
+ */
+
+
+
+using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Timers;
